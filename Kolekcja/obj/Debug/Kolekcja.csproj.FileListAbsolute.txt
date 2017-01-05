@@ -1,0 +1,12 @@
+D:\Programowanie\VisualProjects\ContactBook\Kolekcja\Kolekcja\bin\Debug\Kolekcja.exe.config
+D:\Programowanie\VisualProjects\ContactBook\Kolekcja\Kolekcja\obj\Debug\Kolekcja.csprojResolveAssemblyReference.cache
+D:\Programowanie\VisualProjects\ContactBook\Kolekcja\Kolekcja\bin\Debug\Kolekcja.exe
+D:\Programowanie\VisualProjects\ContactBook\Kolekcja\Kolekcja\bin\Debug\Kolekcja.pdb
+D:\Programowanie\VisualProjects\ContactBook\Kolekcja\Kolekcja\obj\Debug\Kolekcja.exe
+D:\Programowanie\VisualProjects\ContactBook\Kolekcja\Kolekcja\obj\Debug\Kolekcja.pdb
+D:\Programowanie\VisualProjects\Kolekcja\Kolekcja\bin\Debug\Kolekcja.exe.config
+D:\Programowanie\VisualProjects\Kolekcja\Kolekcja\obj\Debug\Kolekcja.exe
+D:\Programowanie\VisualProjects\Kolekcja\Kolekcja\obj\Debug\Kolekcja.pdb
+D:\Programowanie\VisualProjects\Kolekcja\Kolekcja\bin\Debug\Kolekcja.exe
+D:\Programowanie\VisualProjects\Kolekcja\Kolekcja\bin\Debug\Kolekcja.pdb
+D:\Programowanie\VisualProjects\Kolekcja\Kolekcja\obj\Debug\Kolekcja.csprojResolveAssemblyReference.cache
